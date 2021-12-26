@@ -2,5 +2,9 @@
 SGymManager V2
 
 
-For Edit
+Edit
 - Requirement Bunifu Framework : https://bunifuframework.com/
+
+
+Database
+ - SGym Database : https://cloud.relaxlikes.com/inCjQwCnufNLRqg
